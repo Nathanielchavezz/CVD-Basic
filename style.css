@@ -130,6 +130,9 @@
     position:fixed;
     width:100%;
   }
+  .header h3 span{
+    color: var(--primary);
+  }
   .header .branding{
     display:flex;
     align-items:center;
